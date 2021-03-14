@@ -1,10 +1,13 @@
-# Relembrando-Python-com-Curso-Em-Video
+# Relembrando Python com Curso Em Video
 
 Brincando durante o fim de semana com a a linguagem python, reforçando os conhecimentos
 
 <img align="center" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-
+[Mundo 01](https://www.youtube.com/watch?v=oOUyhGNib2Q&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=24)
+[Mundo 02](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+[Mundo 03](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH&index=1)
+[Listas de Exercícios](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
 
 # Porque python?
 
